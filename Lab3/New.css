@@ -1,0 +1,59 @@
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+  font-size: 40px;
+}
+
+h2{color: green;
+	
+	font-size: 34px;
+	text-align: center;
+}
+h3{
+	color:navy;
+	
+	font-size: 23px;
+	text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4{
+	color:lightgreen;
+	margin-left: 20px;
+	font-size: 20px;
+}
+h5{
+	color:lightgreen;
+	margin-left: 30px;
+	font-size: 20px;
+	}
+p{
+	color: black;
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+footer															  /*id selector*/
+{ bottom: 0;
+}
+
+a:link{ color: black;}
+a:visited{ color: maroon;
+}
+a:hover{ color: green;
+}
+a:active{ color: blue;
+}
+ul li{
+font-size: 15px;
+color: lightblue;
+margin-left: 10px;
+}
